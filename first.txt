@@ -1,4 +1,5 @@
 My name is navolina.
 I am an assistant manager.
+<<<<<<< HEAD
 I live in KOTA.
 
